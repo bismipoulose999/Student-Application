@@ -1,0 +1,146 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="#5D7173"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:text="Name"
+
+        android:textStyle="bold"
+        android:textColor="#5C0223"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:textColor="#5C0223"
+
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="Roll No"
+
+        android:textStyle="bold"
+        android:textColor="#5C0223"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:textColor="#5C0223"
+
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="Admission Number"
+
+        android:textStyle="bold"
+        android:textColor="#5C0223"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:textColor="#5C0223"
+
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="College"
+
+        android:textStyle="bold"
+        android:textColor="#5C0223"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:textColor="#5C0223"
+
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="Parent Name"
+
+        android:textStyle="bold"
+        android:textColor="#5C0223"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:textColor="#5C0223"
+
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="Parent mail ID"
+
+        android:textStyle="bold"
+        android:textColor="#5C0223"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:textColor="#5C0223"
+
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="Parent Mobile No"
+
+        android:textStyle="bold"
+        android:textColor="#5C0223"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:textColor="#5C0223"
+        android:inputType="number"
+
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="User Name"
+
+        android:textStyle="bold"
+        android:textColor="#5C0223"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:textColor="#5C0223"
+
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="Password"
+
+        android:textStyle="bold"
+        android:textColor="#5C0223"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:textColor="#5C0223"
+        android:inputType="textPassword"
+
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="Confirm Password"
+
+        android:textStyle="bold"
+        android:textColor="#5C0223"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:textColor="#5C0223"
+        android:inputType="textPassword"
+
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:text="REGISTER"
+        android:textStyle="bold"
+
+        android:textColor="#5C0223"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>
